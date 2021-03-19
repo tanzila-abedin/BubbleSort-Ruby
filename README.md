@@ -1,8 +1,8 @@
-# BubbleSort-Ruby
+
+# Advanced Building Blocks - Bubble Sort
 
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Advanced Building Blocks - Bubble Sort
 
 ## Built With
 
