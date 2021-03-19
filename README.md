@@ -19,7 +19,7 @@ Ruby installed.
 
 To get a local copy up and running follow these simple example steps.
 
-1. Go to https://github.com/marijanbrvar/BubbleSort.git
+1. Go to https://github.com/tanzila-abedin/BubbleSort-Ruby.git
 2. Click on the code button and copy the HTTPS/ SSH URL.
 3. On terminal, type `git clone` command followed by pasting HTTPS/ SSH URL to clone this repository on your local machine.
 4. Run `git checkout -b your-branch-name`. Make your contributions
